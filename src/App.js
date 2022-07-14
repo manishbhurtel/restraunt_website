@@ -1,5 +1,6 @@
 import React from 'react'
 import Body from './Components/Body'
+import Body2 from './Components/Body2'
 import './Components/CSS/All.css'
 import Navbar from './Components/Navbar'
 
@@ -8,6 +9,7 @@ function App() {
     <>
      <Navbar />
      <Body />
+     <Body2 />
     </>
   )
 }

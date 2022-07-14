@@ -16,7 +16,7 @@ function Body() {
         </div>
 
         <div className="body_button">
-          <button>See more</button>
+          <a href='#Body2_container'><button>See more</button></a>
         </div>
       </div>
     </>
