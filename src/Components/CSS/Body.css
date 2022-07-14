@@ -41,6 +41,8 @@
     margin-left: 2.5rem;
 }
 .body_button button{
+    border: none;
+    outline: none;
     height: 2.8rem;
     width:8.3rem;
     border-radius: 1.4rem;
