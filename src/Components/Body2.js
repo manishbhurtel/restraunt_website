@@ -16,7 +16,7 @@ function Body2() {
                         We are living in the world where foods are creating values in the market and to fulfill the demands of the public, we make delicious food with maintaining cleanliness throughout the process.
                     </div>
                     <div className="body2_button">
-                        <a href='#'><button>See more</button></a>
+                        <a href='#Body3_container'><button>See more</button></a>
                     </div>
                 </div>
                 </div>

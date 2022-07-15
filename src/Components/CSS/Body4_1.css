@@ -1,0 +1,28 @@
+.body4_1_text{
+    /* border: 2px solid black; */
+    text-align: center;
+    width:40vw;
+}
+.body4_1_container{
+    height: 35vh;
+    width:100vw;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+}
+.body4_1_header1{
+    color: red;
+    font-weight: 800;
+    font-size: 2rem;
+    margin-top:1.6rem;
+}
+.body4_1_header2{
+    margin-top:1.2rem;
+    font-weight: 1000;
+    color:rgb(68, 68, 68);
+    font-size: 2.6rem;
+}
+.body4_1_header3{
+    margin-top:1.4rem;
+    font-size: 1.5rem;
+}

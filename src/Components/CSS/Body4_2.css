@@ -1,0 +1,32 @@
+.cards{
+    height: calc(100vh - 35vh);
+    width: 100vw;
+    /* border: 2px solid rgb(255, 0, 0); */
+    display: flex;
+    justify-content: center;
+    gap:6rem;
+    align-items: center;
+
+}
+.card{
+    padding-top:1rem;
+    height: 21.5rem;
+    width: 17rem;
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius: 2rem;
+    text-align: center;
+}
+.images{
+    height: 10rem;
+    width:14rem;
+}
+.tit{
+    color: rgb(47, 47, 47);
+    font-size: 1.6rem;
+    margin-top:1.3rem;
+}
+.description{
+    margin-top: 1.6rem;
+}
